@@ -1,6 +1,7 @@
 # Projeto Redes de Computadores
 
-Projeto desenvolvido para a disciplina de Redes de Computadores da Universidade Federal da Paraíba no período 2023.2 com o professor Ewerton. 
+Projeto desenvolvido para a disciplina de Redes de Computadores da Universidade Federal da Paraíba no período 2023.2 com o professor Ewerton.
+
 O projeto abrange um cliente UDP simples que interage com um servidor remoto para solicitar e receber mensagens e um cliente UDP com socket raw com as mesmas funcionalidades.
 
 Alunos:
