@@ -1,9 +1,3 @@
-'''
-Gustavo Montenegro Maia Chaves - 20200015824
-Lucas Gomes Dantas - 20200082925
-Mayra Daher De Carvalho Pereira - 20190031238
-'''
-
 from socket import inet_aton, gethostbyname, gethostname, IPPROTO_UDP
 from codec_template.message_codec_template import CodecTemplate
 from struct import pack

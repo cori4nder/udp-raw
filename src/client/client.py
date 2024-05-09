@@ -1,9 +1,3 @@
-'''
-Gustavo Montenegro Maia Chaves - 20200015824
-Lucas Gomes Dantas - 20200082925
-Mayra Daher De Carvalho Pereira - 20190031238
-'''
-
 import os
 from random import randint
 from socket import socket, AF_INET, SOCK_DGRAM, SOCK_RAW, IPPROTO_UDP
